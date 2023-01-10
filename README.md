@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aditya Dumbare</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<h3 align="center">A passionate Fullstack developer from India</h3>
+<!-- (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...") -->
 
 
 <p align="left"> <a href="https://twitter.com/adityadumbare" target="blank"><img src="https://img.shields.io/twitter/follow/adityadumbare?logo=twitter&style=for-the-badge" alt="adityadumbare" /></a> </p>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 How to reach me **adishine11111@gmail.com**
+- 📫 How to reach me **adityadumbare85@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
