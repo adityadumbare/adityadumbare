@@ -8,7 +8,7 @@
  -->
 - 🔭 I’m currently working on **Java Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **adityadumbare85@gmail.com**
 
